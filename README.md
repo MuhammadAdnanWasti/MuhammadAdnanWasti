@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co.com/rhBWNPC/Orange-Modern-Technology-Linked-In-Banner-2.png" alt="Banner" style="width:100%;" />
 
 <!-- Name and Designation -->
-###Assalamu Alaikum,  I'm Md. Adnan Wasti
+Assalamu Alaikum,  I'm Md. Adnan Wasti
 ### 💻 MERN Stack Developer | Computer Science Student at NSU
 
 <!-- About Me -->
