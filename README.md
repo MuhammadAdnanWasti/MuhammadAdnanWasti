@@ -36,7 +36,7 @@ Currently looking for internship opportunities to grow and contribute.
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/md-adnan-wasti/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammadadnanwasti@gmail.com)
+
 
 <!-- GitHub Stats -->
 ### 📈 GitHub Stats
