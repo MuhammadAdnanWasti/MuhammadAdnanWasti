@@ -43,6 +43,6 @@ Currently looking for internship opportunities to grow and contribute.
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadAdnanWasti&show_icons=true&theme=react)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAdnanWasti&layout=compact&theme=react)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAdnanWasti&theme=react)
+
 
 
