@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co.com/rhBWNPC/Orange-Modern-Technology-Linked-In-Banner-2.png" alt="Banner" style="width:100%;" />
 
 <!-- Name and Designation -->
-#Assalamu Alaikum,  I'm Md. Adnan Wasti
+###Assalamu Alaikum,  I'm Md. Adnan Wasti
 ### 💻 MERN Stack Developer | Computer Science Student at NSU
 
 <!-- About Me -->
@@ -36,13 +36,13 @@ Currently looking for internship opportunities to grow and contribute.
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/md-adnan-wasti/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mohammadadnanwasti@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammadadnanwasti@gmail.com)
 
 <!-- GitHub Stats -->
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=react)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=react)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadAdnanWasti&show_icons=true&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAdnanWasti&layout=compact&theme=react)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAdnanWasti&theme=react)
 
 
