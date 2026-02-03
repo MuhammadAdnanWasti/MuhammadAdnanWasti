@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://i.ibb.co.com/NEW-BANNER-LINK.png" alt="Banner" width="100%" />
+<img src="./Orange Modern Technology LinkedIn Banner (3).png" alt="Banner" width="100%" />
 
 ## Assalamu Alaikum 👋, I'm Md. Adnan Wasti  
 ### 💻 Full-Stack Developer | React • Next.js • Node.js • TypeScript
