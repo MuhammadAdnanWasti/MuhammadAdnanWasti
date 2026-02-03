@@ -57,11 +57,7 @@ Currently seeking **internship / junior full-stack opportunities** where I can l
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/md-adnan-wasti/)
 
----
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadAdnanWasti&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAdnanWasti&layout=compact&theme=react)
 
 
 
