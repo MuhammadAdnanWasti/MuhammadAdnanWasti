@@ -1,48 +1,68 @@
 <!-- Banner -->
-<img src="https://i.ibb.co.com/rhBWNPC/Orange-Modern-Technology-Linked-In-Banner-2.png" alt="Banner" style="width:100%;" />
+<img src="https://i.ibb.co.com/NEW-BANNER-LINK.png" alt="Banner" width="100%" />
 
-<!-- Name and Designation -->
-Assalamu Alaikum,  I'm Md. Adnan Wasti
-### 💻 MERN Stack Developer | Computer Science Student at NSU
+## Assalamu Alaikum 👋, I'm Md. Adnan Wasti  
+### 💻 Full-Stack Developer | React • Next.js • Node.js • TypeScript
 
-<!-- About Me -->
-I'm a passionate MERN Stack Developer who enjoys building scalable and responsive web applications.  
-I love learning new tools and solving real-world problems with code.  
-Currently looking for internship opportunities to grow and contribute.
+---
 
-<!-- Current Activities -->
-### 🔭 Currently Working On:
-- Exploring Next.js for SSR and dynamic routing
-- Building a Messaging Application  using React,Tailwind,MySQL and PHP
+## 👨‍💻 About Me
 
+I’m a **Full-Stack Developer** with hands-on experience in building **production-ready, scalable web applications** using modern JavaScript technologies.  
+I enjoy designing **clean APIs**, working with **both SQL and NoSQL databases**, and creating **user-friendly interfaces**.
 
-<!-- Skills -->
-### ⚙️ Tech Stack
+Currently seeking **internship / junior full-stack opportunities** where I can learn, contribute, and grow in real-world systems.
 
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-black?logo=react) 
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?logo=tailwindcss)
+---
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js) 
-![Express.js](https://img.shields.io/badge/-Express-black?logo=express)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb)
+## 🔭 Currently Working On
+- Building full-stack projects with **React, Next.js, Node.js, and PostgreSQL**
+- Improving skills in **TypeScript, authentication, and system design**
+- Developing **AI-integrated and role-based web platforms**
 
-**Tools:**  
-![Firebase](https://img.shields.io/badge/-Firebase-black?logo=firebase)  
-![Git](https://img.shields.io/badge/-Git-black?logo=git)
+---
 
-<!-- Social Links -->
-### 🌐 Connect with Me
+## ⚙️ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/md-adnan-wasti/)
+### Frontend
+![React](https://img.shields.io/badge/React-black?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?logo=tailwindcss)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-black?logo=daisyui)
 
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-black?logo=express)
+![JWT](https://img.shields.io/badge/JWT-black?logo=jsonwebtokens)
+![Stripe](https://img.shields.io/badge/Stripe-black?logo=stripe)
 
-<!-- GitHub Stats -->
-### 📈 GitHub Stats
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadAdnanWasti&show_icons=true&theme=react)
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-black?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![Firebase](https://img.shields.io/badge/Firebase-black?logo=firebase)
+![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-black?logo=netlify)
+![Vite](https://img.shields.io/badge/Vite-black?logo=vite)
+![Figma](https://img.shields.io/badge/Figma-black?logo=figma)
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/md-adnan-wasti/)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadAdnanWasti&show_icons=true&theme=react)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAdnanWasti&layout=compact&theme=react)
+
 
 
 
